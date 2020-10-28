@@ -1,0 +1,91 @@
+body {
+	background-image: url(https://blog.pixlr.com/wp-content/uploads/2019/03/stars-pattern.png);
+	background-repeat: no-repeat;
+	color: #b38600;
+	padding: 37px 50px; /* margen interior para que el titulo quede más bajo*/
+	font-family: 'Thasadith', sans-serif;
+	font-size: 20px;
+}
+
+/* Quitar estilo a los puntos y numeros de la lista */
+li {
+	list-style: none;
+}
+
+/* Estilo texto footer*/
+#textf {
+	font-size: 14px;
+	font-style: italic;
+	color: #332600;
+}
+
+/* Imagenes cabecera */
+.wrapper {
+	width: 100%;
+	display: inline-flex; /* display: para poner los elementos en línea */
+}
+
+img {
+	width: 100%;
+	height: 300px;
+}
+
+div.polaroid {
+	width: 50%;
+	background-color: white;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	margin: 25px;
+}
+
+div.container {
+	text-align: center;
+	padding: 10px 20px; 
+	font-size: 25px;
+}
+/* color enlace externo del texto de las imagenes */
+.colorenlace {
+	color: #806000;
+}
+
+/* Estilo enlace externo imagenes*/
+.enlaceimagen{
+	text-decoration: none;
+}
+
+/* alinea en el centro */
+.center {
+	text-align: center;
+}
+
+/* Estilo para el fondo de la lista */
+#fondolista {
+	background-color: white;
+	opacity: 0.8;
+	margin: 30px 80px;
+	padding: 20px 30px;
+}
+
+/* Titulo página */
+#titul {
+	font-family: 'Dancing Script', cursive;
+	font-size: 60px;
+	text-align: center;
+	text-shadow: 2px 2px 2px #3d3d29;
+}
+
+/* Enlace interno */
+#puja {
+	text-decoration: none;
+	color: #d6d6c2;
+}
+
+/* Estilos titulos de las listas */
+li.listat {
+	font-size: 35px;
+	font-weight: bold;
+}
+
+/* Palabras en negrita en el texto */
+.negrita {
+	font-weight: bold;
+}

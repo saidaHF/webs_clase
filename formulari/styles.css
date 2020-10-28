@@ -1,0 +1,29 @@
+body {
+	font-family: "verdana";
+	font-size: 14px;
+}
+
+#fnombre {
+	width: 35%;
+}
+
+#femail {
+	width: 35%;
+}
+
+#fpoblacion {
+	width: 35%;
+}
+
+#ftextarea {
+	background-color: #f2f2f2;
+	color: black;
+	border: 1px solid #ccc;
+}
+
+input {
+  background-color: #f2f2f2;
+  color: black;
+  border: 1px solid #ccc;
+}
+

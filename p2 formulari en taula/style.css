@@ -1,0 +1,57 @@
+header {
+	font-family: Brush Script MT;
+	font-size: 50px;
+	color: #664400;
+	text-align: center;
+}
+
+body {
+	font-family: verdana;
+	background-image: url(https://i.pinimg.com/originals/c4/7c/fe/c47cfe0e2434240e3b6aa3e3586ed152.png);
+}
+
+footer {
+	font-size: 10px;
+	text-align: center;
+}
+
+table {
+	background: #d2a679;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#comentari {
+	background-color: #f2f2f2;
+	color: black;
+	border: 1px solid #ccc;
+}
+
+#tituls {
+	color: #392613;
+	font-size: 25px;
+	text-align: left;
+	font-family: cursive;
+}
+
+#img {
+	width: 575px;
+}
+
+#tituls {
+	size: 45px;
+}
+
+#lopd {
+	font-size: 9px;
+}
+
+#select {
+	color: black;
+	border: 1px solid #ccc;
+}
+
+input {
+  color: black;
+  border: 1px solid #ccc;
+

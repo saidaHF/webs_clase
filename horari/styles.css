@@ -1,0 +1,50 @@
+#body {
+	margin-top: 50px;
+	font-family: "Lucida Console", Courier, monospace;
+}
+
+#imagen {
+	width: 100px; height: 50px;
+	display:block;
+	margin:auto;
+}
+
+.dias {
+	font-weight: bold;
+	color: #ff4da6;
+	background-color: #b3ffda;
+}
+
+.letra {
+	color: #ff6699;
+}
+
+.patio {
+	color: #4eca7e;
+	background-color: #e6fff3;
+	font-weight: bold;
+}
+
+th, td {
+	width: 100px;
+	word-wrap: break-word;
+}
+
+#horari {
+	color: #FFFFFF;
+	font-size: 20px;
+	background-color: #ffb3cc;
+}
+
+#table {
+	color: #99ffcc;
+	border: 0px;
+	background-color: #99ffcc;
+	margin: auto;
+}
+
+#tableBody {
+	background-color: #ccffe6;
+	margin: auto;
+	text-align: center;
+}

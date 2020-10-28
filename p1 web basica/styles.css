@@ -1,0 +1,43 @@
+* {
+	font-family: 'verdana';
+	margin-left: 20px;
+}
+
+img {
+	width: 100%;
+	height: auto;
+}
+
+#bizcocho {
+	width: 550px;
+	height: 300px;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+.cursiva {
+	font-style: italic;
+}
+
+#body {
+	background-color: #d9ffb3;
+}
+
+#title {
+	color: #574307;
+}
+
+#subtitul {
+	color: #cc3614;
+}
+
+#final {
+	color: #e08a1f
+}
+
+

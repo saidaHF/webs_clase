@@ -1,0 +1,46 @@
+<html lang=”es”>
+	<head>
+		<title>Formulari</title>
+		<meta charset="UTF-8">
+		<meta name="description" content="Formularis">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" href="styles.css">
+	</head>
+	<body id="body">
+		<form action="mailto:saidahumbert.alum@insestatut.cat" method="POST">
+			<!-- Nombre -->
+			<label for="fnombre">Nombre</label><br>
+			<input type="text" name="nombre" id="fnombre" /><br>
+			<!-- Email -->
+			<label for="femail">Email</label><br>
+			<input type="email" name="correo" value="@" id="femail" /><br>
+			<!-- Población -->
+			<label for="fpoblacion">Población</label><br>
+			<input type="text" name="poblacion" id="fpoblacion" /><br>
+			<!-- Sexo, el name tiene que ser igual para todos para que solo deje seleccionar uno -->
+			<label>Sexo</label>
+			<input type="radio" id="fhombre" name="sexo" value="hombre" />
+			<label for="male">Hombre</label>
+			<input type="radio" id="fmujer" name="sexo" value="mujer" />
+			<label for="female">Mujer</label><br>
+			<!-- Frecuencia viajes -->
+			<label for="fviajes">Frecuencia de los viajes</label>
+			<select name="viajes" id="fviajes">
+				<option value="0">Varias veces al día</option>
+				<option value="1">Varias veces a la semana</option>
+				<option value="2">Varias veces al mes</option>
+				<option value="3">Varias veces al año</option>
+				<option value="3">No viajo</option>
+			</select><br>
+			<!-- Comentario -->
+			<label>Comentarios sobre su satisfacción personal</label><br>
+			<textarea name="comentario" rows="10" cols="71" id="ftextarea"></textarea><br>
+			<!-- Notificaciones check -->
+			<input type="checkbox" id="fnotificaciones" name="notificaciones" value="recibirNotificaciones">
+			<label for="fnotificaciones">Deseo recibir notificación de las novedades en las líneas de autobuses.</label><br>
+			<!-- Botones enviar y borrar -->
+			<input type="submit" value="Enviar formulario">
+			<input type="reset" value="Borrar todo"><br>
+		</form>
+	</body>
+</html>

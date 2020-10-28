@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang=”es”>
+	<head>
+		<title>Pràctica 2</title>
+		<meta name="author" content="Saida Humbert">
+		<meta charset="UTF-8">
+		<meta name="description" content="Formularis i taules">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" href="style.css">
+	</head>
+	<body>
+		<header>
+			<!--Titulo página-->
+			<h1>Formulari d'adopció</h1>
+			<!--Imatge-->
+			<img id="img" src="https://www.cpobispomoscoso.es/wp-content/uploads/2019/01/e6bffcd2e194a6b1b8317b8f5126f7a409e150d6_Home-slider-2_v2.jpg"/>
+		</header>
+		<section>
+			<form action="mailto:cristinamaestra.prof@insestatut.cat" method="POST">
+				<table border="0" id="table">
+						<!--Capçalera taula-->
+					<tr id="tituls">
+						<th>Dades personals</th>
+						<th>Identificació</th>
+					</tr>
+					<tr>
+						<!--Dades personals-->
+						<td>
+							<!--Nom-->
+							<label for="fnom">Nom</label><br>
+							<input type="text" id="fnom" name="fnom"><br>
+							<!--Cognom-->
+							<label for="fcognom">Primer cognom</label><br>
+							<input type="text" id="fcognom" name="fcognom"><br>
+							<label for="fcognom2">Segon cognom</label><br>
+							<input type="text" id="fcognom2" name="fcognom2"><br>
+						</td>
+						<!--Identificació-->
+						<td>
+							<!--Correu usuari-->
+							<label>Usuari</label><br>
+							<input type="email" name="correo"><br>
+							<!--Contrasenya-->
+							<label for="pwd">Contrasenya</label><br>
+							<input type="password" id="contrasenya" name="contrasenya"><br>
+						</td>
+					</tr>
+							<!--Sexe-->
+						<td>
+							<label>Sexe</label><br>
+							<input type="radio" name="sexe" value="1">Home<br>
+							<input type="radio" name="sexe" value="2">Dona<br>
+							<input type="radio" name="sexe" value="3">Altre<br>
+						</td>
+					<tr>
+						<td>
+							<!--Correo-->
+							<label>Correu electrònic</label><br>
+							<input type="email" name="correo" value="@"><br>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<!--Llistat-->
+							<label>Selecciona l'animal que t'agradaria adoptar</label><br>
+							<select name="animal" id="select">
+								<option>Gos</option>
+								<option>Gat</option>
+								<option>Peix</option>
+								<option>Reptil</option>
+								<option>Ocell</option>
+								<option>Rosegador</option>
+							</select><br>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<!--Text area-->
+							<label>Explica'ns més sobre tu</label><br>
+							<textarea name="comentari" rows="10" cols="45" id="comentari">M'agrada...</textarea><br>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<!--Aceptar terminis-->
+							<input type="checkbox" name="terminis">
+							<label>Acepto els terminis i condicions*</label><br>
+							<!--Enviar i esborrar-->
+							<input type="submit" value="Enviar">
+							<input type="reset" value="Esborrar">
+						</td>
+					</tr>
+					<tr>
+						<!--LOPD-->
+						<td colspan="2" id="lopd">*Aquest formulari compleix amb la Llei Orgànica 3/2018, de Protecció de Dades i RGPD</td>
+					</tr>
+				</table>
+			</form>
+		</section>
+		<br>
+		<footer><p>© Saida Humbert 2020</p></footer>
+	</body>
+</html>

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="ES">
+	<head> 
+		<title>Club Rol</title>
+		<meta name="description" content="Practica4">
+		<meta name="keywords" content="Rol, juegos, d&d, resurgir del dragon">
+		<meta name="author" content="Saida Humbert Fernández">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="styles.css">
+		<!-- Tipografia -->
+		<link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap" rel="stylesheet">
+	</head>
+	<body>
+		<nav>
+			<div id="bordeizq">
+				<!-- LOGO -->
+				<a href="index.html"><img id="logo" src="LOGO.jpg" /></a>
+				<!-- Enlaces internos, lado izquierdo página "Navegador" -->
+				<p>
+					<a href="index.html">Conocenos</a>
+				</p>
+				<p>
+					<a href="formulari.html">Contacto</a>
+				</p>
+				<p>
+					<a href="galeria.html">Galeria</a>
+				</p>
+				<p>
+					<a href="taules.html">Partidas</a>
+				</p>
+			</div>
+		</nav>
+			<!-- Página, lado derecho -->
+		<section>
+			<div id="bordeder">
+				<header>
+					<h1 id="cabecera">Contacto</h1>
+				</header>
+			</div>
+			<article>
+			<!-- FORMULARI CONTACTE -->
+				<form action="mailto:cristinamaestra.prof@insestatut.cat" method="POST">
+					<!-- Formulario izquierda -->
+					<div id="form1">
+						<!--Nombre-->
+						<label for="fnom">Nombre</label><br>
+						<input type="text" id="fnom" name="fnom"><br>
+						<!--Apellidos-->
+						<label for="fcognom">Primer apellido</label><br>
+						<input type="text" id="fcognom" name="fcognom"><br>
+						<label for="fcognom2">Segundo apellido</label><br>
+						<input type="text" id="fcognom2" name="fcognom2"><br>
+						<!--Correo usuari-->
+						<label>Correo electronico</label><br>
+						<input type="email" name="correo" value="@"><br>
+					<!-- Formulario derecha -->
+					</div>
+					<div id="form2">
+					<!-- Comentario -->
+						<label>Escribe tu mensaje:</label><br>
+						<textarea name="comentario" rows="10" cols="71" id="ftextarea"></textarea><br>
+					<!-- Botones enviar y borrar -->
+						<div id="botones">
+							<input type="submit" value="Enviar formulario">
+							<input type="reset" value="Borrar todo"><br>
+						</div>
+					</div>
+				</form>
+			</article>
+		</section>
+		<footer>
+			<p id="pie">CopyRight© 2020 Saida Humbert Fernández</p>
+		</footer>
+	</body>
+</html>

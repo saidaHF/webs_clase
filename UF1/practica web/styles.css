@@ -1,0 +1,121 @@
+html {
+	min-height: 100%;
+	position: relative;
+}
+
+body {
+	background-image: url("FONDO.jpg");
+	font-family: 'Dancing Script', cursive;
+	font-size: 20px;
+	margin: 7px;
+	margin-bottom: 40px;
+}
+
+#logo {
+	width: 90px; 
+	height: 80px;
+}
+
+/* Parte izquierda - NAVEGADOR */
+#bordeizq{
+	float: left;
+	background: white;
+	padding: 20px;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+}
+
+/* Parte derecha*/
+#bordeder {
+	/*background:#000FFF;*/
+	padding: 10px;	
+}
+
+/* pie pagina - footer*/
+#pie {
+	font-size: 12px;
+	text-align: center;
+	padding: 10px;
+	width: 100%;
+}
+
+/* id texto en negrita y centrado */
+#textosuelto {
+	font-weight: bolder;
+	text-align: center;
+}
+
+/* cabecera de las paginas */
+#cabecera {
+	text-align: center;
+	font-size: 50px;
+	text-shadow: 2px 2px 2px gray;
+}
+
+.imgcabecera {
+	width: 600px; 
+	height: 300px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	border-radius: 8px;
+	font-weight: bold;
+}
+
+/* parte de texto del centro id "ARTICLE" */
+#article {
+	text-align: center;
+	width: 50%;
+	margin-left: 29%;
+	margin-right: auto;
+	padding: 10px;
+	background: white;
+	margin-top: 5%;
+}
+
+/*formulari*/ 
+
+form {
+	display: flex;
+	margin-left: 30%;
+    left: 50%;
+}
+
+#form1 {
+	background: white;
+	padding: 10px;
+}
+
+#form2 {
+	background: white;
+	padding: 10px;
+}
+
+#botones {
+	text-align: right;
+}
+
+/*TABLA - calendario */
+table {
+	background: white;
+	text-align: right;
+}
+
+#taula {
+	width: 50%;
+	margin-left: 35%;
+	padding: 10px;
+}
+
+td, th {
+	font-size: 14px;
+	padding: 30px;
+	
+}
+
+th {
+	font-size: 20px;
+}
+

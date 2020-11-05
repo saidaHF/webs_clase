@@ -1,9 +1,8 @@
 body {
 	background-image: url("FONDO.jpg");
 	font-family: 'Dancing Script', cursive;
-	font-size: 20px;
+	font-size: 25px;
 	margin: 7px;
-	margin-bottom: 40px;
 }
 
 #logo {
@@ -22,16 +21,24 @@ body {
 	text-align: center;
 }
 
+.resaltar a:hover {
+	color: #4d0000;
+}
+
+a {
+	text-decoration:none;
+	color: #b30000;
+}
+
 /* Parte derecha*/
 #bordeder {
-	/*background:#000FFF;*/
 	padding: 10px;	
 }
 
 /* pie pagina - footer*/
 #pie {
 	font-size: 12px;
-	text-align: center;
+	text-align: left;
 	padding: 10px;
 }
 
@@ -41,10 +48,10 @@ body {
 	text-align: center;
 }
 
-/* cabecera de las paginas */
+/* Cabecera de las paginas */
 #cabecera {
 	text-align: center;
-	font-size: 50px;
+	font-size: 60px;
 	text-shadow: 2px 2px 2px gray;
 }
 
@@ -84,32 +91,65 @@ form {
 
 #form2 {
 	background: white;
-	padding: 10px;
+	padding: 17px;
 }
 
 #botones {
 	text-align: right;
 }
 
+input, textarea {
+	border: 3px solid #ccc;
+	color: #b30000;
+}
+
+/* MAPA - enlace externo */
+
+#mapa {
+	margin-left: 10%;
+    margin-top: 5%;
+	text-align: center;
+	text-shadow: 2px 2px 2px gray;
+}
+
 /*TABLA - calendario */
+
+#tablatitulo{
+	text-shadow: 2px 2px 2px gray;
+}
+
 table {
 	background: white;
 	text-align: right;
+	border: none;
+	border-spacing: 0px;
+	table-layout: fixed;
+	width: 800px;
 }
 
+/* id tabla */
 #taula {
 	width: 50%;
-	margin-left: 35%;
-	padding: 10px;
+	margin-left: 27%;
 }
 
-td, th {
+tr.number td {
+	width: 10px;
+	height: 10px;
+	font-size: 20px;
+	text-align: left;
+}
+
+tr.letter td {
 	font-size: 14px;
-	padding: 30px;
-	
+    width: 100px;
+	height: 75px;
+	text-align: center;
 }
 
 th {
 	font-size: 20px;
+	background: #b30000;
+	text-align: center;
 }
 

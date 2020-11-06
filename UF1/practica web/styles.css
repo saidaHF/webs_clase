@@ -37,6 +37,7 @@ a {
 
 /* pie pagina - footer*/
 #pie {
+	width: 100%;
 	font-size: 12px;
 	text-align: left;
 	padding: 10px;
@@ -153,3 +154,34 @@ th {
 	text-align: center;
 }
 
+/* GALERIA - PERSONAJES */
+
+.clases {
+	float: left;
+	text-align: center;
+	text-shadow: 2px 2px 2px gray;
+}
+
+.razas {
+	float: left;
+	text-align: center;	
+	text-shadow: 2px 2px 2px gray;	
+}
+
+#clase {
+	float: right;
+}
+
+#raza {
+	float: right;
+}
+
+img {
+	width: 300px;
+	height: 300px;
+}
+
+#clasesyrazas {
+	width: 100%;
+	height: 1000px;
+}

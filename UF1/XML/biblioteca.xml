@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca>
+   <libros>
+      <libro isbn="9788484412441" numpag="496">
+         <codigo>1717</codigo>
+         <titulo>Septimus</titulo>
+         <autor>Angie Sage</autor>
+         <editorial>MONTENA</editorial>
+         <edicion>1a</edicion>
+      </libro>
+      <libro isbn="9788420712314" numpag="208">
+         <codigo>1616</codigo>
+         <titulo>Otra vuelta de tuerca</titulo>
+         <autor>Henry James</autor>
+         <editorial>ANAYA</editorial>
+         <edicion>1a</edicion>
+      </libro>
+      <libro isbn="9788408087236" numpag="352">
+         <codigo>1520</codigo>
+         <titulo>Las cosas que no nos dijimos</titulo>
+         <autor>Marc Levy</autor>
+         <editorial>PLANETA</editorial>
+         <edicion>1a</edicion>
+      </libro>
+      <libro isbn="9788492616824" numpag="480">
+         <codigo>2018</codigo>
+         <titulo>El atomo en la historia de la humanidad</titulo>
+         <autor>Bernard Pullman</autor>
+         <editorial>INTERVENCION CULTURAL</editorial>
+         <edicion>1a</edicion>
+      </libro>
+      <libro isbn="9788490607909" numpag="368">
+         <codigo />
+         <titulo>El bosón de higgs no te va a hacer la cama</titulo>
+         <autor>Javier Santaolalla</autor>
+         <editorial>LA ESFERA DE LOS LIBROS</editorial>
+         <edicion>1a</edicion>
+      </libro>
+      <libro isbn="9788466616898" numpag="512">
+         <codigo>3236</codigo>
+         <titulo>El juego de Ender</titulo>
+         <autor>Orson Scott</autor>
+         <editorial>S.A. EDICIONES B</editorial>
+         <edicion>4a</edicion>
+      </libro>
+   </libros>
+</biblioteca>

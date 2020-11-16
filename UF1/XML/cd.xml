@@ -1,38 +1,120 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<cd titol="exitos2020">
-  <songs>
-    <song lenght="6:20" anio="1978">
-      <title>
-      Hot Cop
-      </title>
-      <composers>
-        <composer>
-        </composer>
-          <nombre>
-          Henry
-          </nombre>
-          <apellidos>
-          Beolo
-          </apellidos>
-        </composers>
-      <producers>
-        <producer>
-          <nombre>
-          Jacques
-          </nombre>
-          <apellidos>
-          Morali
-          </apellidos>
-        </producer>
-      </producers>
-      <publisher>
-      PolyGram
-      </publisher>
-      <artists>
-        <artist>
-        Village People
-        </artist>
-      </artists>
-    </song>
-  </songs>
+<cd titol="exitos_Rock">
+  <data dia="20" mes="juliol" any="2020" />
+   <songs>
+      <song lenght="4:20" anio="2020">
+         <title>Ocho Mares</title>
+         <composers>
+            <composer>
+               <nombre>Kutxi</nombre>
+               <apellidos>Romero</apellidos>
+            </composer>
+         </composers>
+         <producers>
+            <producer>
+               <nombre>Kolibrí</nombre>
+               <apellidos>Díaz</apellidos>
+            </producer>
+         </producers>
+         <publisher>Maldito Records</publisher>
+         <artists>
+            <artist>Marea</artist>
+         </artists>
+      </song>
+      <song lenght="3:24" anio="2020">
+         <title>El Queso Rodante</title>
+         <composers>
+            <composer>
+               <nombre>Antonio</nombre>
+               <apellidos>Ruíz</apellidos>
+            </composer>
+         </composers>
+         <producers>
+            <producer>
+               <nombre>Narci</nombre>
+               <apellidos>Lara</apellidos>
+            </producer>
+         </producers>
+         <publisher>Maldito Records</publisher>
+         <artists>
+            <artist>Saurom</artist>
+         </artists>
+      </song>
+      <song lenght="2:34" anio="2020">
+         <title>Yo me quedo contigo aquí</title>
+         <composers>
+            <composer>
+               <nombre>Robe</nombre>
+               <apellidos>Iniesta</apellidos>
+            </composer>
+         </composers>
+         <producers>
+            <producer>
+               <nombre>Avispa</nombre>
+               <apellidos>Records</apellidos>
+            </producer>
+         </producers>
+         <publisher>Discos Radioactivos Organizados</publisher>
+         <artists>
+            <artist>Extremoduro</artist>
+         </artists>
+      </song>
+      <song lenght="3:40" anio="2019">
+         <title>Al salir la luz </title>
+         <composers>
+            <composer>
+               <nombre>Enrique </nombre>
+               <apellidos>Villarreal </apellidos>
+            </composer>
+         </composers>
+         <producers>
+            <producer>
+               <nombre>Araia</nombre>
+               <apellidos>Villarreal</apellidos>
+            </producer>
+         </producers>
+         <publisher>Maldito Records</publisher>
+         <artists>
+            <artist>El Drogas</artist>
+         </artists>
+      </song>
+      <song lenght="3:46" anio="2018">
+         <title>Sácame de aquí</title>
+         <composers>
+            <composer>
+               <nombre>Marcos</nombre>
+               <apellidos>Molina</apellidos>
+            </composer>
+         </composers>
+         <producers>
+            <producer>
+               <nombre>Jorge</nombre>
+               <apellidos>Correa</apellidos>
+            </producer>
+         </producers>
+         <publisher>Indy Rock</publisher>
+         <artists>
+            <artist>Gritando en silencio</artist>
+         </artists>
+      </song>
+      <song lenght="4:44" anio="2016">
+         <title>Nos volveremos a ver</title>
+         <composers>
+            <composer>
+               <nombre>Josep</nombre>
+               <apellidos>Panxo</apellidos>
+            </composer>
+         </composers>
+         <producers>
+            <producer>
+               <nombre>Julio</nombre>
+               <apellidos>Maloa</apellidos>
+            </producer>
+         </producers>
+         <publisher>Propaganda pel Fet</publisher>
+         <artists>
+            <artist>La Raiz</artist>
+         </artists>
+      </song>
+   </songs>
 </cd>

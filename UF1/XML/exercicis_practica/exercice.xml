@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<noticias>
+    <noticia subtitulo="La llamó &quot; mala y envidiosa &quot; a sus espaldas">    <!-- Aqui no detecta en rojo los &quot porque es un atributo solo se pone rojo en contenido -->
+        <titulo>Jon Snow se arrepiente de matar a Daenerys</titulo>   
+        <contenido>blablabla</contenido>
+    </noticia>
+     <noticia subtitulo="Tendencias 2017/2018 para Otoño e Invierno">
+        <titulo> C&amp;A Moda</titulo>
+        <contenido>
+        Incluso cuando los días se &quot;vuelven más cortos&quot;, con estas tendencias siempre
+        estará bien equipado para &apos;cualquier&apos; tipo de clima y seguirá estando completamente
+        de moda. Aquí &gt;podrá ver toda la moda para este Otoño e Invierno.
+        </contenido>
+    </noticia>   
+</noticias>

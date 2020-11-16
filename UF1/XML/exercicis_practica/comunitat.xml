@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<comunitat>
+    <propietaris>
+      <vei secretari="si" president="" DNI="478696320L">
+        <nom>Mario Santillana</nom>
+        <pis>1er 1ra</pis>
+        <numCompte> ES 2100 5690 0945 5890</numCompte>
+      </vei>
+      <vei secretari="" president="si" DNI="678677385F">
+        <nom>Laura Vazquez</nom>
+        <pis>2nd 1ra</pis>
+        <numCompte> ES 2580 8890 2005 5987</numCompte>
+      </vei>
+      <vei secretari="" president="" DNI="369175834P">
+        <nom>Nuria Jimenez</nom>
+        <pis>1er 2n</pis>
+        <numCompte> ES 3698 7892 2347 0001</numCompte>
+      </vei>
+      <vei secretari="" president="" DNI="002569778M">
+        <nom>Adrian Gomez</nom>
+        <pis>2nd 2a</pis>
+        <numCompte> ES 2100 8963 1478 6001</numCompte>
+      </vei>
+      <vei secretari="" president="" DNI="369566447U">
+        <nom>Oriol Fernández</nom>
+        <pis>3er 1a</pis>
+        <numCompte> ES 2100 6987 5623 0144</numCompte>
+      </vei>
+      <vei secretari="" president="" DNI="777001569A">
+        <nom>Lourdes Foig</nom>
+        <pis>3er 2a</pis>
+        <numCompte> ES 2120 8896 5521 5550</numCompte>
+      </vei>
+    </propietaris>
+</comunitat>

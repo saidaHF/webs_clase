@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<llisti xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="E2_2_xsd.xsd">
+  <persona id="ricky" sexe="home">
+   <nom>ricky martin</nom>
+   <email>ricky@puerto-rico.com</email>
+   <relacio amic-de="leatitia"></relacio>
+  </persona>
+  <persona id="leatitia" sexe="dona">
+    <nom>Leatitia Casta</nom>
+    <email>castal@micasa.com</email>
+  </persona>
+</llisti>

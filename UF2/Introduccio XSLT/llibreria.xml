@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="llibreria5.xsl"?>
+<llibreria>
+	<llibre>
+		<titol llengua="cat">L'espia que va venir del fred</titol>
+		<titol-original>The Spy Who Came in from the Cold</titol-original>
+		<autor>John Le Carré</autor>
+		<any>1963</any>
+		<preu>14.99</preu>
+	</llibre>
+	<llibre>
+		<titol llengua="es">Diez negritos</titol>
+		<titol-original>And Then There Were None</titol-original>
+		<autor>Agatha Christie</autor>
+		<any>1939</any>
+		<preu>9.99</preu>
+	</llibre>
+	<llibre>
+		<titol llengua="es">Postmortem</titol>
+		<titol-original>Postmortem</titol-original>
+		<autor>Patricia Cornwell</autor>
+		<any>1990</any>
+		<preu>5.99</preu>
+	</llibre>
+	<llibre>
+		<titol llengua="es">La granja de cuerpos</titol>
+		<titol-original>The Body Farm</titol-original>
+		<autor>Patricia Cornwell</autor>
+		<any>1994</any>
+		<preu>6.99</preu>
+</llibre>
+	<llibre>
+		<titol llengua="cat">Un ambient estrany</titol>
+		<titol-original>Unnatural Exposure</titol-original>
+		<autor>Patricia Cornwell</autor>
+		<any>1997</any>
+		<preu>7.99</preu>
+</llibre>
+<llibre>
+		<titol llengua="cat">El llibre dels morts</titol>
+		<titol-original>Book of the Dead</titol-original>
+		<autor>Patricia Cornwell</autor>
+		<any>2007</any>
+		<preu>9.99</preu>
+</llibre>
+	<llibre>
+		<titol llengua="es">Niebla Roja</titol>
+		<titol-original>Red Mist</titol-original>
+		<autor>Patricia Cornwell</autor>
+		<any>2011</any>
+		<preu>19.99</preu>
+</llibre>
+</llibreria>
+

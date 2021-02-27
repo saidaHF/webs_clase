@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"> 
+    <xsd:element name="orders">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element name="order" type="orderDetails" />
+                <xsd:element name="orderlist" type="orderLists" />
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+    <xsd:complexType name="orderDetails">
+        <xsd:sequence>
+            <xsd:element name="customerName" type="xsd:string"/>
+            <xsd:element name="customerAddress" type="xsd:string"/>
+            <xsd:element name="customerContact" type="xsd:string"/>
+            <xsd:element name="orderIDREF" type="xsd:IDREF"/>
+            <xsd:element name="orderIDREFS" type="xsd:IDREFS"/>
+        </xsd:sequence>
+    </xsd:complexType>
+    <xsd:complexType name="orderLists">
+        <xsd:sequence>
+            <xsd:element name="orderID" type="xsd:ID" maxOccurs="unbounded"/>
+        </xsd:sequence>
+    </xsd:complexType>
+</xsd:schema>

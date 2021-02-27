@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+   <xsd:simpleType name="Tgenere">
+     <xsd:restriction base="xsd:string">
+       <xsd:enumeration value="dona"/>
+       <xsd:enumeration value="home"/>
+       <xsd:enumeration value="no binari"/>
+     </xsd:restriction>
+   </xsd:simpleType>
+     <xsd:element name="llisti">
+         <xsd:complexType>
+             <xsd:sequence>
+                 <xsd:element name="persona" maxOccurs="unbounded">
+                     <xsd:complexType>
+                         <xsd:sequence>
+                             <xsd:element name="nom" type="xsd:string"/>
+                             <xsd:element name="email" type="xsd:string"/>
+                             <xsd:element name="relacio" minOccurs="0">
+                               <xsd:complexType>
+                                 <xsd:attribute name="amic-de" type="xsd:IDREF"/>
+                               </xsd:complexType>
+                             </xsd:element>
+                         </xsd:sequence>
+                     <xsd:attribute name="id" type="xsd:ID" use="required"/>
+                     <xsd:attribute name="sexe" type="Tgenere"/>
+                     </xsd:complexType>
+                 </xsd:element>
+             </xsd:sequence>
+        </xsd:complexType>
+   </xsd:element>
+</xsd:schema>

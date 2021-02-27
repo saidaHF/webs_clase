@@ -1,0 +1,10 @@
+<!ELEMENT personas (persona+)>
+<!ELEMENT persona (nombre, nacimiento, direccion)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT nacimiento (#PCDATA)>
+<!ELEMENT direccion (calle, poblacion, provincia, cpostal, varios)>
+<!ELEMENT calle (#PCDATA)>
+<!ELEMENT poblacion (#PCDATA)>
+<!ELEMENT provincia (#PCDATA)>
+<!ELEMENT cpostal (#PCDATA)>
+<!ELEMENT varios EMPTY>

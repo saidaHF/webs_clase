@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE comunitat SYSTEM "Ex3.dtd">
+<comunitat carrer="Maria del Rio" portal="80">
+      <propietari codi="014" carrec="President">
+              <nom>Pepe</nom>
+              <cognom>Garcia</cognom>
+              <cognom>Black</cognom>
+              <pis_lletra>2 A</pis_lletra>
+              <CCC>2100 2365 5689 9856</CCC>
+      </propietari>
+      <propietari codi="087" carrec="Vicepresident">
+              <nom>Lucia</nom>
+              <nom>Maria</nom>
+              <cognom>Monet</cognom>
+              <cognom>Cotton</cognom>
+              <pis_lletra>2 B</pis_lletra>
+              <CCC>2108 3366 0001 7899</CCC>
+      </propietari>
+      <propietari codi="957" carrec="Vocal">
+              <nom>Marta</nom>
+              <cognom>Manchado</cognom>
+              <cognom>Sabater</cognom>
+              <pis_lletra>1 B</pis_lletra>
+              <CCC>0080 7845 1122 1000</CCC>
+      </propietari>
+      <propietari codi="699" carrec="Secretari">
+              <nom>Carles</nom>
+              <cognom>Puig</cognom>
+              <cognom>Galileo</cognom>
+              <pis_lletra>1 A</pis_lletra>
+              <CCC>2150 5584 4456 2558</CCC>
+      </propietari>
+      <propietari codi="005" carrec="Cap">
+              <nom>Aitana</nom>
+              <cognom>Quixal</cognom>
+              <cognom>Fernández</cognom>
+              <pis_lletra>3 A</pis_lletra>
+              <CCC>2660 9922 5487 3322</CCC>
+      </propietari>
+      <propietari codi="200" carrec="Cap">
+              <nom>Mireia</nom>
+              <cognom>Tejero</cognom>
+              <cognom>Orla</cognom>
+              <pis_lletra>3 B</pis_lletra>
+              <CCC>2100 8999 5445 0235</CCC>
+      </propietari>
+</comunitat>

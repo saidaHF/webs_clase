@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE zoo SYSTEM "zoo.dtd">
+<zoo>
+      <animals>
+          <animal habitat="glaciar" codi="pingüins">
+                <nomEspecie>pingüins</nomEspecie>
+                <perillositat grau="1"></perillositat>
+                <cuidador>
+                      <nomCuidador>Marta</nomCuidador>
+                      <dataInici>10/01/2008</dataInici>
+                      <nomActivitat nombreEspectadors="30">jugar pilota</nomActivitat>
+                </cuidador>
+          </animal>
+          <animal habitat="glaciar" codi="osos_polars">
+                <nomEspecie>osos polars</nomEspecie>
+                <perillositat grau="5"></perillositat>
+                <cuidador>
+                      <nomCuidador>Guillem</nomCuidador>
+                      <dataInici>04/02/2008</dataInici>
+                </cuidador>
+          </animal>
+          <animal habitat="desert" codi="dromedaris">
+                <nomEspecie>dromedaris</nomEspecie>
+                <perillositat grau="2"></perillositat>
+                <cuidador>
+                      <nomCuidador>Pere</nomCuidador>
+                      <dataInici>06/08/2008</dataInici>
+                </cuidador>
+          </animal>
+          <animal habitat="desert" codi="serps">
+                <nomEspecie>serps</nomEspecie>
+                <perillositat grau="4"></perillositat>
+                <cuidador>
+                      <nomCuidador>Mònica</nomCuidador>
+                      <dataInici>08/06/2008</dataInici>
+                      <nomActivitat nombreEspectadors="10">Ball amb flauta</nomActivitat>
+                </cuidador>
+          </animal>
+      </animals>
+      <aliments>
+          <aliment nomAliment="peix">
+              <diesConservacio>1 dia</diesConservacio>
+          </aliment>
+          <aliment nomAliment="ratolins">
+              <diesConservacio>5 dies</diesConservacio>
+          </aliment>
+          <aliment nomAliment="patates">
+              <diesConservacio>30 dies</diesConservacio>
+          </aliment>
+          <menja queAliment="peix" quinAnimal="pingüins">
+              <quantitat>5 unitats</quantitat>
+          </menja>
+          <menja queAliment="peix" quinAnimal="osos polars">
+              <quantitat>7 unitats</quantitat>
+          </menja>
+          <menja queAliment="patates" quinAnimal="osos polars">
+              <quantitat>5 kg</quantitat>
+          </menja>
+          <menja queAliment="patates" quinAnimal="dromedari">
+              <quantitat>10 kg</quantitat>
+          </menja>
+          <menja queAliment="ratolins" quinAnimal="serps">
+              <quantitat>1 unitat</quantitat>
+          </menja>
+      </aliments>
+</zoo>

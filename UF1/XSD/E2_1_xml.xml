@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Libro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="E2_1_xsd.xsd" precio="20">
+        <Título>Ejemplo de XML Schema</Título>
+        <Autores>Julio Llamazares</Autores>
+        <Autores>Julio Cortazar</Autores>
+        <Editorial>Altafulla</Editorial>
+</Libro>

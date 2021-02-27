@@ -1,0 +1,26 @@
+<!ELEMENT zoo (animals+, aliments+)>
+<!-- animals -->
+<!ELEMENT animals (animal+)>
+<!ELEMENT animal (nomEspecie*, perillositat, cuidador+)>
+<!ATTLIST animal habitat (glaciar|desert) #REQUIRED>  <!-- es requerido, IMPLIED es opcional, FIXED es fijo-->
+<!ATTLIST animal codi (pingüins|osos_polars|dromedaris|serps) #REQUIRED> <!-- sense lloc a error, posem les opcions predeterminades -->
+<!ELEMENT nomEspecie (#PCDATA)>
+<!ELEMENT perillositat EMPTY>  <!-- per valor buit -->
+<!ATTLIST perillositat grau (1|2|3|4|5) "1"> <!-- valor por defecto 1 -->
+<!-- cuidador -->
+<!ELEMENT cuidador (nomCuidador*, dataInici, nomActivitat?)>
+<!ATTLIST nomActivitat nombreEspectadors CDATA #IMPLIED>
+<!ELEMENT nomCuidador (#PCDATA)>
+<!ELEMENT dataInici (#PCDATA)>
+<!ELEMENT nomActivitat (#PCDATA)>
+
+<!-- aliments -->
+<!ELEMENT aliments ((aliment+, menja+)|(menja+,aliment+))>
+
+<!ELEMENT aliment (diesConservacio)>
+<!ELEMENT diesConservacio (#PCDATA)>
+<!ATTLIST aliment nomAliment CDATA #REQUIRED>
+<!ELEMENT menja (quantitat)>
+<!ATTLIST menja queAliment CDATA #REQUIRED>
+<!ATTLIST menja quinAnimal CDATA #REQUIRED>
+<!ELEMENT quantitat (#PCDATA)>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE personas SYSTEM "personas.dtd">
+<personas>
+      <persona>
+            <nombre>Jonh Smith</nombre>
+            <nacimiento>21 de Enero de 1969</nacimiento>
+            <direccion>
+              <calle>Avda.Universidad,30</calle>
+              <poblacion>Leganés</poblacion>
+              <provincia>Madrid</provincia>
+              <cpostal>08191</cpostal>
+              <varios/>
+            </direccion>
+      </persona>
+</personas>

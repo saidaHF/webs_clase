@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<horario>
+              <dia diasetmana="Dilluns">
+                      <clases>
+                              <clase nombre="Sistemes informatics" codi="M01">
+                                    <hores>
+                                          <hora>15:00</hora>
+                                          <hora>16:00</hora>
+                                    </hores>
+                              </clase>
+                              <clase nombre="Operadors Logistics" codi="M17">
+                                    <hores>
+                                          <hora>17:00</hora>
+                                          <hora></hora>
+                                    </hores>
+                              </clase>
+                              <clase nombre="Operadors Logistics" codi="M17">
+                                    <hores>
+                                          <hora>18:30</hora>
+                                          <hora></hora>
+                                    </hores>
+                              </clase>
+                              <pati>18:00</pati>
+                      </clases>
+              </dia>
+                           <dia diasetmana="Dimarts">
+                      <clases>
+                              <clase nombre="Sistemes informatics" codi="M01">
+                                    <hores>
+                                          <hora>15:00</hora>
+                                          <hora>16:00</hora>
+                                    </hores>
+                              </clase>
+                              <clase nombre="Operadors Logistics" codi="M17">
+                                    <hores>
+                                          <hora>17:00</hora>
+                                          <hora></hora>
+                                    </hores>
+                              </clase>
+                              <clase nombre="Operadors Logistics" codi="M17">
+                                    <hores>
+                                          <hora>18:30</hora>
+                                          <hora></hora>
+                                    </hores>
+                              </clase>
+                              <pati>18:00</pati>
+                      </clases>
+              </dia>
+                           <dia diasetmana="Dimecres">
+                      <clases>
+                              <clase nombre="Sistemes informatics" codi="M01">
+                                    <hores>
+                                          <hora>15:00</hora>
+                                          <hora>16:00</hora>
+                                    </hores>
+                              </clase>
+                              <clase nombre="Operadors Logistics" codi="M17">
+                                    <hores>
+                                          <hora>17:00</hora>
+                                          <hora></hora>
+                                    </hores>
+                              </clase>
+                              <clase nombre="Operadors Logistics" codi="M17">
+                                    <hores>
+                                          <hora>18:30</hora>
+                                          <hora></hora>
+                                    </hores>
+                              </clase>
+                              <pati>18:00</pati>
+                      </clases>
+              </dia>
+                           <dia diasetmana="Dijous">
+                      <clases>
+                              <clase nombre="Sistemes informatics" codi="M01">
+                                    <hores>
+                                          <hora>15:00</hora>
+                                          <hora>16:00</hora>
+                                    </hores>
+                              </clase>
+                              <clase nombre="Operadors Logistics" codi="M17">
+                                    <hores>
+                                          <hora>17:00</hora>
+                                          <hora></hora>
+                                    </hores>
+                              </clase>
+                              <clase nombre="Operadors Logistics" codi="M17">
+                                    <hores>
+                                          <hora>18:30</hora>
+                                          <hora></hora>
+                                    </hores>
+                              </clase>
+                              <pati>18:00</pati>
+                      </clases>
+              </dia>
+                           <dia diasetmana="Divendres">
+                      <clases>
+                              <clase nombre="Sistemes informatics" codi="M01">
+                                    <hores>
+                                          <hora>15:00</hora>
+                                          <hora>16:00</hora>
+                                    </hores>
+                              </clase>
+                              <clase nombre="Operadors Logistics" codi="M17">
+                                    <hores>
+                                          <hora>17:00</hora>
+                                          <hora></hora>
+                                    </hores>
+                              </clase>
+                              <clase nombre="Operadors Logistics" codi="M17">
+                                    <hores>
+                                          <hora>18:30</hora>
+                                          <hora></hora>
+                                    </hores>
+                              </clase>
+                              <pati>18:00</pati>
+                      </clases>
+              </dia>
+</horario>

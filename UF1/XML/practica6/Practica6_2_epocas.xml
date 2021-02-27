@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<etapas nom="Grecia Clásica">
+      <etapa>
+          <periodo>3000 - 1450 aC</periodo>
+          <nom>Civilizacion minoica</nom>
+          <surge lugar="Gnossos">Palacios</surge>
+      </etapa>
+      <etapa>
+          <periodo>1900 - 1200 aC</periodo>
+          <nom>Civilización micénica</nom>
+          <aparece>Aqueos y ciudades fortificadas</aparece>
+      </etapa>
+      <etapa>
+          <periodo>1200 - 800 aC</periodo>
+          <nom>Época oscura</nom>
+          <aparece>Dorios y nacen las polis</aparece>
+      </etapa>
+      <etapa>
+          <periodo>800 - 500 aC</periodo>
+          <nom>Época arcaica</nom>
+          <gobiernan>Regímenes aristocráticos, tiranías populares, colonizaciones</gobiernan>
+      </etapa>
+      <etapa>
+          <periodo>500 - 350 aC</periodo>
+          <nom>Época clásica</nom>
+          <apogeo>Atenas y Esparta, guerras médicas</apogeo>
+      </etapa>
+      <etapa>
+          <periodo>s IV - III aC</periodo>
+          <nom>Época helenística</nom>
+          <nacen>Reyes de Macedonia</nacen>
+          <ocurre>fusión occidente y oriente</ocurre>
+      </etapa>
+</etapas>

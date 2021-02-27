@@ -1,0 +1,12 @@
+<!ELEMENT comunitat (propietari+)>
+<!ELEMENT propietari (nom+, cognom*, pis_lletra, CCC)>
+
+<!ATTLIST comunitat carrer CDATA #REQUIRED>
+<!ATTLIST comunitat portal CDATA #REQUIRED>
+<!ATTLIST propietari carrec (President|Vicepresident|Vocal|Secretari|Cap) #IMPLIED>
+<!ATTLIST propietari codi CDATA #REQUIRED>
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT cognom (#PCDATA)>
+<!ELEMENT pis_lletra (#PCDATA)>
+<!ELEMENT CCC (#PCDATA)>
+

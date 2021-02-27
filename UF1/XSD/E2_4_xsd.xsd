@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+     <xsd:element name="raiz">
+         <xsd:complexType>
+             <xsd:sequence>
+
+<xsd:element name="desordenParcial">
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name="elementoOpcion1SimpleVacio"><xsd:complexType/></xsd:element>
+<xsd:choice>
+<xsd:element name="elementoOpcion2aSimpleVacio"><xsd:complexType/></xsd:element>
+<xsd:element name="elementoOpcion2bSimpleVacio"><xsd:complexType/></xsd:element>
+</xsd:choice>
+<xsd:element name="elementoOpcion3SimpleVacio"><xsd:complexType/></xsd:element>
+<xsd:element name="elementoOpcion4SimpleVacio"><xsd:complexType/></xsd:element>
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+
+<xsd:element name="desordenTotalUnaOcurrencia">
+<xsd:complexType>
+<xsd:all>
+<xsd:element name="elementoDesordenado1Simple" type="xsd:integer"/>
+<xsd:element name="elementoDesordenado2Simple" type="xsd:integer"/>
+<xsd:element name="elementoDesordenado3Simple" type="xsd:integer"/>
+<xsd:element name="elementoDesordenado4Simple" type="xsd:integer"/>
+</xsd:all>
+</xsd:complexType>
+</xsd:element>
+
+<xsd:element name="desordenTotalMultiplesOcurrencias">
+<xsd:complexType>
+<xsd:choice maxOccurs="unbounded">
+
+<xsd:element name="elementoDesordenado1Vacio">
+<xsd:complexType>
+<xsd:attribute name="atributo1" type="xsd:string"/>
+</xsd:complexType>
+</xsd:element>
+
+<xsd:element name="elementoDesordenado2Contenido">
+<xsd:complexType>
+<xsd:simpleContent>
+<xsd:extension base="xsd:integer">
+<xsd:attribute name="atributo2" type="xsd:string"/>
+</xsd:extension>
+</xsd:simpleContent>
+</xsd:complexType>
+</xsd:element>
+
+<xsd:element name="elementoDesordenado3Complejo">
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name="elementoOrdenado1Simple" type="xsd:integer"/>
+<xsd:element name="elementoOrdenado2Simple" type="xsd:integer"/>
+<xsd:element name="elementoOrdenado3Simple" type="xsd:integer"/>
+<xsd:element name="elementoOrdenado4Simple" type="xsd:integer"/>
+</xsd:sequence>
+<xsd:attribute name="atributo3" type="xsd:string"/>
+</xsd:complexType>
+</xsd:element>
+
+</xsd:choice>
+</xsd:complexType>
+</xsd:element>
+
+
+             </xsd:sequence>
+         </xsd:complexType>
+     </xsd:element>
+</xsd:schema>

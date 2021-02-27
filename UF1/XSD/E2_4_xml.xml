@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<raiz xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="E2_4_xsd.xsd">
+   <desordenParcial>
+     <elementoOpcion1SimpleVacio/>
+     <elementoOpcion2bSimpleVacio/>
+     <elementoOpcion3SimpleVacio/>
+     <elementoOpcion4SimpleVacio/>
+   </desordenParcial>
+   <desordenTotalUnaOcurrencia>
+     <elementoDesordenado3Simple>3</elementoDesordenado3Simple>
+     <elementoDesordenado1Simple>1</elementoDesordenado1Simple>
+     <elementoDesordenado2Simple>2</elementoDesordenado2Simple>
+     <elementoDesordenado4Simple>4</elementoDesordenado4Simple>
+   </desordenTotalUnaOcurrencia>
+   <desordenTotalMultiplesOcurrencias>
+     <elementoDesordenado1Vacio atributo1="a"></elementoDesordenado1Vacio>
+     <elementoDesordenado2Contenido atributo2="b">1</elementoDesordenado2Contenido>
+     <elementoDesordenado1Vacio atributo1="c"></elementoDesordenado1Vacio>
+     <elementoDesordenado1Vacio atributo1="d"></elementoDesordenado1Vacio>
+     <elementoDesordenado2Contenido atributo2="e">2</elementoDesordenado2Contenido>
+     <elementoDesordenado2Contenido atributo2="f">3</elementoDesordenado2Contenido>
+     <elementoDesordenado3Complejo atributo3="g">
+       <elementoOrdenado1Simple>1</elementoOrdenado1Simple>
+       <elementoOrdenado2Simple>2</elementoOrdenado2Simple>
+       <elementoOrdenado3Simple>3</elementoOrdenado3Simple>
+       <elementoOrdenado4Simple>4</elementoOrdenado4Simple>
+     </elementoDesordenado3Complejo>
+     <elementoDesordenado2Contenido atributo2="h">4</elementoDesordenado2Contenido>
+     <elementoDesordenado2Contenido atributo2="i">5</elementoDesordenado2Contenido>
+   </desordenTotalMultiplesOcurrencias>
+</raiz>

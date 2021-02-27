@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<socis xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:noNamespaceSchemaLocation="socis.xsd">  
+        <soci id="num13">
+                 <nom>Andreu</nom>
+                 <cognom>Garcia</cognom>
+                 <edat>30</edat>
+                 <DNI>56565656X</DNI>
+                 <dataNaixement>1990-03-07</dataNaixement>  <!-- fecha es año mes dia-->
+                 <ciutat>Rubí</ciutat>
+                 <posicioRanking>8.5</posicioRanking> <!-- decimales con punto, coma NO-->
+         </soci>
+         <soci id="num27">
+                 <nom>Anna</nom>
+                 <cognom>Casal</cognom>
+                 <edat>22</edat>
+                 <DNI>98989898L</DNI>
+                 <dataNaixement>1998-06-15</dataNaixement>
+                 <ciutat>Sabadell</ciutat>
+                 <posicioRanking>9.8</posicioRanking>
+         </soci>
+</socis>

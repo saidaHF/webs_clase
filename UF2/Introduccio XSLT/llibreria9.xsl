@@ -18,7 +18,7 @@
                               <tr bgcolor="aqua">
                                   <td><xsl:value-of select="titol"/></td>
                                   <td><xsl:value-of select="autor"/></td>
-                                  <td><xsl:value-of select=" titol/@llengua"/></td>       <!-- És un atribut  hem de posar @nom_atribut -->
+                                  <td><xsl:value-of select=" titol/@llengua"/></td> 
                                   <td><xsl:value-of select="any"/></td>
                                   <td><xsl:value-of select="preu"/></td>
                               </tr>
@@ -29,4 +29,3 @@
         </html>
 </xsl:template>
 </xsl:stylesheet>
-

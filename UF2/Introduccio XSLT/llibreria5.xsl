@@ -13,9 +13,8 @@
                               <th>Any</th>
                               <th>Preu</th>
                         </tr>
-                <xsl:for-each select="llibreria/llibre">
+                <xsl:for-each select="llibreria/llibre"> 
                     <xsl:if test="any &lt; 1990">  <!--  &lt;  és  <    y   &gt;    és    >     -->
-
                               <tr bgcolor="aqua">
                                   <td><xsl:value-of select="titol"/></td>
                                   <td><xsl:value-of select="autor"/></td>

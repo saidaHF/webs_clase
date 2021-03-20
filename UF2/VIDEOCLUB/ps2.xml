@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ps2.xsl"?>
+<videoclub>
+  <pelicula>
+    <titol>La Trama</titol>
+    <nacionalitat>EEUU</nacionalitat>
+    <productor>unspecified</productor>
+    <director>Alfred Hitchcock</director>
+    <any>1976</any>
+    <duracio>121 min</duracio>
+    <genere>Thrille</genere>
+    <sinopsi>Lighthearted suspense film about a phony psychic/con artist and her taxi driver/private investigator boyfriend who encounter a pair of serial kidnappers while trailing a missing heir in California.</sinopsi>
+    <foto>https://m.media-amazon.com/images/M/MV5BZWE5NDI0OTktNWZkZi00OTQ5LTg2ZTctNzljNDFmZmYyYWEzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX182_CR0,0,182,268_AL_.jpg</foto>
+    <url>http://www.imdb.com/title/tt0074512/</url>
+  </pelicula>
+  <pelicula>
+    <titol>Naufragos</titol>
+    <nacionalitat>EEUU</nacionalitat>
+    <productor>unspecified</productor>
+    <director>Alfred Hitchcock</director>
+    <any>1944</any>
+    <duracio>97 min</duracio>
+    <genere>Thriller</genere>
+    <sinopsi>Several survivors of a torpedoed ship find themselves in the same boat with one of the men who sunk it.  </sinopsi>
+    <foto>https://m.media-amazon.com/images/M/MV5BZTBmMjUyMjItYTM4ZS00MjAwLWEyOGYtYjMyZTUxN2I3OTMxXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX182_CR0,0,182,268_AL_.jpg</foto>
+    <url>http://www.imdb.com/title/tt0037017/</url>
+  </pelicula>
+  <pelicula>
+    <titol>Tesis</titol>
+    <nacionalitat>España</nacionalitat>
+    <productor>unspecified</productor>
+    <director>Alejandro Amenabar</director>
+    <any>1996</any>
+    <duracio>125 min</duracio>
+    <genere>Thriller</genere>
+    <sinopsi>While doing a thesis about violence, Ángela finds a snuff video where a girl is tortured until death. Soon she discovers that the girl was a former student in her faculty... </sinopsi>
+    <foto>https://m.media-amazon.com/images/M/MV5BYTNjOGMzOTgtYWVmMi00ZWYzLWI4ZDItZjRhMjU3MzBhY2UwXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_UY268_CR3,0,182,268_AL_.jpg</foto>
+    <url>http://www.imdb.com/title/tt0117883/</url>
+  </pelicula>
+  <pelicula>
+    <titol>Abre los ojos</titol>
+    <nacionalitat>España</nacionalitat>
+    <productor>unspecified</productor>
+    <director>Alejandro Amenabar</director>
+    <any>1997</any>
+    <duracio>117 min</duracio>
+    <genere>Drama</genere>
+    <sinopsi>A very handsome man finds the love of his life, but he suffers an accident and needs to have his face rebuilt by surgery after it is severely disfigured.  </sinopsi>
+    <foto>https://images-na.ssl-images-amazon.com/images/I/71tMcjrePYL._SY445_.jpg</foto>
+    <url>http://www.imdb.com/title/tt0125659/</url>
+  </pelicula>
+    <pelicula>
+    <titol>Los otros</titol>
+    <nacionalitat>EEUU</nacionalitat>
+    <productor>unspecified</productor>
+    <director>Alejandro Amenabar</director>
+    <any>2001</any>
+    <duracio>101 min</duracio>
+    <genere>Mistery</genere>
+    <sinopsi>A woman who lives in a darkened old house with her two photosensitive children becomes convinced that her family home is haunted. </sinopsi>
+    <foto>https://m.media-amazon.com/images/M/MV5BMTAxMDE4Mzc3ODNeQTJeQWpwZ15BbWU4MDY2Mjg4MDcx._V1_UY268_CR0,0,182,268_AL_.jpg</foto>
+    <url>http://www.imdb.com/title/tt0230600/</url>
+  </pelicula>
+  <pelicula>
+    <titol>Recuerda</titol>
+    <nacionalitat>EEUU</nacionalitat>
+    <productor>unspecified</productor>
+    <director>Alfred Hitchcock</director>
+    <any>1945</any>
+    <duracio>111 min</duracio>
+    <genere>Film-Noir</genere>
+    <sinopsi>A female psychiatrist protects the identity of an amnesia patient accused of murder while attempting to recover his memory. </sinopsi>
+    <foto>https://images-na.ssl-images-amazon.com/images/I/71NFYp9ZLyL._SY445_.jpg</foto>
+    <url>http://www.imdb.com/title/tt0038109/</url>
+  </pelicula>
+  <pelicula>
+    <titol>Encadenados</titol>
+    <nacionalitat>EEUU</nacionalitat>
+    <productor>unspecified</productor>
+    <director>Alfred Hitchcock</director>
+    <any>1946</any>
+    <duracio>101 min</duracio>
+    <genere>Spy</genere>
+    <sinopsi>A woman is asked to spy on a group of Nazi friends in South America. How far will she have to go to ingratiate herself with them?</sinopsi>
+    <foto>https://m.media-amazon.com/images/M/MV5BYTc1NGViOTMtNjZhNS00OGY2LWI4MmItOWQwNTY4MDMzNWI3L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_SX654_AL_.jpg</foto>
+    <url>http://www.imdb.com/title/tt0038787/</url>
+  </pelicula>
+  <pelicula>
+    <titol>La soga</titol>
+    <nacionalitat>EEUU</nacionalitat>
+    <productor>unspecified</productor>
+    <director>Alfred Hitchcock</director>
+    <any>1948</any>
+    <duracio>80 min</duracio>
+    <genere>Crime</genere>
+    <sinopsi>Two young men strangle their "inferior" classmate, hide his body in their apartment, and invite his friends and family to a dinner party as a means to challenge the "perfection" of their crime.</sinopsi>
+    <foto>https://m.media-amazon.com/images/M/MV5BYWFjMDNlYzItY2VlMS00ZTRkLWJjYTEtYjI5NmFlMGE3MzQ2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX182_CR0,0,182,268_AL_.jpg</foto>
+    <url>http://www.imdb.com/title/tt0040746/</url>
+  </pelicula>
+  <pelicula>
+    <titol>Extraños en un tren</titol>
+    <nacionalitat>EEUU</nacionalitat>
+    <productor>unspecified</productor>
+    <director>Alfred Hitchcock</director>
+    <any>1951</any>
+    <duracio>101 min</duracio>
+    <genere>Crime</genere>
+    <sinopsi>A psychotic socialite confronts a pro tennis star with a theory on how two complete strangers can get away with murder...a theory that he plans to implement. </sinopsi>
+    <foto>https://images-na.ssl-images-amazon.com/images/I/41xGp4MY7RL._AC_SY355_.jpg</foto>
+    <url>http://www.imdb.com/title/tt0044079/</url>
+  </pelicula>
+  <pelicula>
+    <titol>Yo confieso</titol>
+    <nacionalitat>EEUU</nacionalitat>
+    <productor>unspecified</productor>
+    <director>Alfred Hitchcock</director>
+    <any>1953</any>
+    <duracio>95 min</duracio>
+    <genere>Crime</genere>
+    <sinopsi>Refusing to give into police investigators' questions of suspicion, due to the seal of confession, a priest becomes the prime suspect in a murder.</sinopsi>
+    <foto>https://m.media-amazon.com/images/M/MV5BYTY0MTJmMmUtNTVkMy00YTBmLWEzNDUtZWQ0Mjc4NzRjZTNhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX182_CR0,0,182,268_AL_.jpg</foto>
+    <url>http://www.imdb.com/title/tt0045897/</url>
+  </pelicula>
+  <pelicula>
+    <titol>Crimen Perfecto</titol>
+    <nacionalitat>EEUU</nacionalitat>
+    <productor>unspecified</productor>
+    <director>Alfred Hitchcock</director>
+    <any>1954</any>
+    <duracio>105 min</duracio>
+    <genere>Crime</genere>
+    <sinopsi>An ex-tennis pro carries out a plot to murder his wife. When things go wrong, he improvises a brilliant plan B.</sinopsi>
+    <foto>https://m.media-amazon.com/images/M/MV5BOWIwODIxYWItZDI4MS00YzhhLWE3MmYtMzlhZDIwOTMzZmE5L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX182_CR0,0,182,268_AL_.jpg</foto>
+    <url>http://www.imdb.com/title/tt0046912/</url>
+  </pelicula>
+  <pelicula>
+    <titol>La ventana indiscreta</titol>
+    <nacionalitat>EEUU</nacionalitat>
+    <productor>unspecified</productor>
+    <director>Alfred Hitchcock</director>
+    <any>1954</any>
+    <duracio>112 min</duracio>
+    <genere>Mistery</genere>
+    <sinopsi>A wheelchair bound photographer spies on his neighbours from his apartment window and becomes convinced one of them has committed murder. </sinopsi>
+    <foto>https://m.media-amazon.com/images/M/MV5BNGUxYWM3M2MtMGM3Mi00ZmRiLWE0NGQtZjE5ODI2OTJhNTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY268_CR0,0,182,268_AL_.jpg</foto>
+    <url>http://www.imdb.com/title/tt0047396/</url>
+  </pelicula>
+  <pelicula>
+    <titol>Atrapa a un ladrón</titol>
+    <nacionalitat>EEUU</nacionalitat>
+    <productor>unspecified</productor>
+    <director>Alfred Hitchcock</director>
+    <any>1955</any>
+    <duracio>106 min</duracio>
+    <genere>Crime</genere>
+    <sinopsi>When a reformed jewel thief is suspected of returning to his former occupation, he must ferret out the real thief in order to prove his innocence. </sinopsi>
+    <foto>https://m.media-amazon.com/images/M/MV5BODM2ODgyOGYtYzYwMC00ZTEwLTg2MmItZDI2OTdhMTdiMGFiL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX182_CR0,0,182,268_AL_.jpg</foto>
+    <url>http://www.imdb.com/title/tt0048728/</url>
+  </pelicula>
+  <pelicula>
+    <titol>Con la muerte en los talones</titol>
+    <nacionalitat>EEUU</nacionalitat>
+    <productor>unspecified</productor>
+    <director>Alfred Hitchcock</director>
+    <any>1959</any>
+    <duracio>131 min</duracio>
+    <genere>Adventure</genere>
+    <sinopsi>A hapless New York advertising executive is mistaken for a government agent by a group of foreign spies, and is pursued across the country while he looks for a way to survive. </sinopsi>
+    <foto>https://m.media-amazon.com/images/M/MV5BZDA3NDExMTUtMDlhOC00MmQ5LWExZGUtYmI1NGVlZWI4OWNiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX182_CR0,0,182,268_AL_.jpg</foto>
+    <url>http://www.imdb.com/title/tt0053125/</url>
+  </pelicula>
+  <pelicula>
+    <titol>Psicosis</titol>
+    <nacionalitat>EEUU</nacionalitat>
+    <productor>unspecified</productor>
+    <director>Alfred Hitchcock</director>
+    <any>1960</any>
+    <duracio>109 min</duracio>
+    <genere>Horror</genere>
+    <sinopsi>A young woman steals $40,000 from her employer's client, and subsequently encounters a young motel proprietor too long under the domination of his mother. </sinopsi>
+    <foto>https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg</foto>
+    <url>http://www.imdb.com/title/tt0054215/</url>
+  </pelicula>
+  <pelicula>
+    <titol>Los Pájaros</titol>
+    <nacionalitat>EEUU</nacionalitat>
+    <productor>unspecified</productor>
+    <director>Alfred Hitchcock</director>
+    <any>1963</any>
+    <duracio>119 min</duracio>
+    <genere>Horror</genere>
+    <sinopsi>A wealthy San Francisco socialite pursues a potential boyfriend to a small Northern California town that slowly takes a turn for the bizarre when birds of all kinds suddenly begin to attack people there in increasing numbers and with increasing viciousness. </sinopsi>
+    <foto>https://m.media-amazon.com/images/M/MV5BMTAxNDA1ODc5MDleQTJeQWpwZ15BbWU4MDg2MDA4OTEx._V1_UX182_CR0,0,182,268_AL_.jpg</foto>
+    <url>http://www.imdb.com/title/tt0056869/</url>
+  </pelicula>
+  <pelicula>
+    <titol>Eden Lake</titol>
+    <nacionalitat>UK</nacionalitat>
+    <productor>unspecified</productor>
+    <director>James Watkins</director>
+    <any>2008</any>
+    <duracio>91 min</duracio>
+    <genere>Horror</genere>
+    <sinopsi>Refusing to let anything spoil their romantic weekend break, a young couple confront a gang of loutish youths with terrifyingly brutal consequences. </sinopsi>
+    <foto>https://m.media-amazon.com/images/M/MV5BMTYwMzE0OTQzN15BMl5BanBnXkFtZTcwOTY5MDIwMg@@._V1_UY268_CR0,0,182,268_AL_.jpg</foto>
+    <url>http://www.imdb.com/title/tt1020530/</url>
+  </pelicula>
+  <pelicula>
+    <titol>Alarma en el expreso</titol>
+    <nacionalitat>UK</nacionalitat>
+    <productor>unspecified</productor>
+    <director>Alfred Hitchcock</director>
+    <any>1938</any>
+    <duracio>96 min</duracio>
+    <genere>Mistery</genere>
+    <sinopsi>While traveling in continental Europe, a rich young playgirl realizes that an elderly lady seems to have disappeared from the train.</sinopsi>
+    <foto>https://m.media-amazon.com/images/M/MV5BNjk3YzFjYTktOGY0ZS00Y2EwLTk2NTctYTI1Nzc2OWNiN2I4XkEyXkFqcGdeQXVyNzM0MTUwNTY@._V1_UX182_CR0,0,182,268_AL_.jpg</foto>
+    <url>http://www.imdb.com/title/tt0030341/</url>
+  </pelicula>
+  <pelicula>
+    <titol>La sombra de una duda</titol>
+    <nacionalitat>EEUU</nacionalitat>
+    <productor>unspecified</productor>
+    <director>Alfred Hitchcock</director>
+    <any>1943</any>
+    <duracio>108 min</duracio>
+    <genere>Crime</genere>
+    <sinopsi>A young woman discovers her visiting "Uncle Charlie" may not be the man he seems to be. </sinopsi>
+    <foto>https://m.media-amazon.com/images/M/MV5BYzUyOGE2Y2EtYzI2My00MDcxLWFmNzYtYjMzN2NiMmMzMzAzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX182_CR0,0,182,268_AL_.jpg</foto>
+    <url>http://www.imdb.com/title/tt0036342/</url>
+  </pelicula>
+  <pelicula>
+    <titol>Sabotaje</titol>
+    <nacionalitat>EEUU</nacionalitat>
+    <productor>unspecified</productor>
+    <director>Alfred Hitchcock</director>
+    <any>1942</any>
+    <duracio>109 min</duracio>
+    <genere>Mistery</genere>
+    <sinopsi>Aircraft factory worker Barry Kane goes on the run across the United States when he is wrongly accused of starting a fire that killed his best friend.</sinopsi>
+    <foto>https://m.media-amazon.com/images/M/MV5BMWNlZDIyZWItMDJkZS00OGZhLTg0YzYtOWVhM2ExZTY3NDk3L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX182_CR0,0,182,268_AL_.jpg</foto>
+    <url>http://www.imdb.com/title/tt0035279/</url>
+  </pelicula>
+</videoclub>
+

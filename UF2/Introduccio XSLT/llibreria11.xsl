@@ -14,19 +14,22 @@
                               <th>Preu</th>
                         </tr>
                 <xsl:for-each select="llibreria/llibre">
-                    <xsl:if test="preu &lt; 10">  <!--  &lt;  és  <    y   &gt;    és    >      Així fem llibres  amb preu  <  10€ -->
+                    <xsl:if test="autor = &quot;Patricia Cornwell&quot;">     <!-- Las comillas se tiene que poner &quot;  o con comilla simple ' -->
+                    <xsl:if test="preu &lt; 10">       <!--    També amb el and      -->
+                    <xsl:if test="preu &gt; 7">
                               <tr bgcolor="aqua">
                                   <td><xsl:value-of select="titol"/></td>
                                   <td><xsl:value-of select="autor"/></td>
-                                  <td><xsl:value-of select=" titol/@llengua"/></td>       <!-- És un atribut  hem de posar @nom_atribut -->
+                                  <td><xsl:value-of select=" titol/@llengua"/></td> 
                                   <td><xsl:value-of select="any"/></td>
                                   <td><xsl:value-of select="preu"/></td>
                               </tr>
-                     </xsl:if>
+                    </xsl:if>
+                   </xsl:if>
+                    </xsl:if>
                 </xsl:for-each>
                 </table>
                 </body>
         </html>
 </xsl:template>
 </xsl:stylesheet>
-

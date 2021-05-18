@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-
+<!-- VERSIO AMB CSS-->
           <xsl:template match="/">
                 <html>
                       <head>
-                          <link rel="stylesheet" type="text/css" href="estils.css"/>
+                          <link rel="stylesheet" type="text/css" href="estils.css"/> <!-- AQUI POSEM EL CSS -->
                       </head>
                       <body>
                             <h1>La meva Llibreria</h1>
@@ -13,13 +13,12 @@
                 </html>
           </xsl:template>
           
-          
           <!-- TEMPLATE LLIBRERIA -->
           <xsl:template match="llibreria">
                 <h2>Llistat complert de llibres</h2>
                 <table class="cabecera">
-                      <tr bgcolor="yellow">
-                            <th>Títol</th>
+                      <tr bgcolor="yellow"> <!-- TR columna-->
+                            <th>Títol</th> <!-- Fila HEAD igual que TD pero cabecera-->
                             <th>Títol Original</th>
                             <th>Autor</th>
                             <th>Any</th>
@@ -61,3 +60,11 @@
                 <td class="preu"><xsl:value-of select="."/></td>
           </xsl:template>        
 </xsl:stylesheet>
+
+<!--
+ = (Igual)
+! = (No igual)
+& Lt; (menor que)
+& Gt; (mayor que) 
+-->
+

@@ -1,0 +1,24 @@
+body {
+  font-family:arial;
+}
+header {
+    background-color:black;
+    color:red;
+    text-align:center;
+    padding:5px;
+}
+section {
+  font-family:arial;
+  width: 80%;
+  margin:auto;
+}
+img {
+margin:5px;
+}
+footer {
+    background-color:black;
+    color:white;
+    font-size: 14px;
+    text-align:center;
+    padding:10px;
+}

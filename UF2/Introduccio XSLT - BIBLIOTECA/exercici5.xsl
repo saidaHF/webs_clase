@@ -59,3 +59,10 @@
           </xsl:template>        
 </xsl:stylesheet>
 
+<!--
+ = (Igual)
+! = (No igual)
+& Lt; (menor que)
+& Gt; (mayor que) 
+-->
+

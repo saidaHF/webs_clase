@@ -1,0 +1,41 @@
+body {
+  font-family:arial;
+}
+header {
+    background-color:black;
+    color:red;
+    text-align:center;
+    padding:5px;
+}
+section {
+    width:800px;
+    padding:10px;
+    margin: auto;
+}
+footer {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+table, td, th {
+    border: 1px solid black;
+    padding:5px;
+    text-align: justify;
+}
+td{
+    min-width: 150px;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    background-color: red;
+    color: black;
+}
+.photo {
+    width:100px;
+    float:left;
+    padding:10px;

@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="pro.xsl"?>
+<?xml-stylesheet type="text/xsl" href="ppro.xsl"?>
+
 <videoclub>
   <pelicula>
     <titol>La Trama</titol>
